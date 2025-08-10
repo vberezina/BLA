@@ -1,6 +1,6 @@
 
 <details>
-<summary># Заголовок 1 уровня (аналог <h1>)</summary>
+<summary># Теоретическая часть</summary>
 
 Скрытый текст или код.  
 </details>
